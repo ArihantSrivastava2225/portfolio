@@ -6,7 +6,7 @@ function App() {
     <div className="App">
         <nav className="navbar">
           <div className="box1 boxn">
-
+            
             {/* <svg height="100" width="500" xmlns="http://www.w3.org/2000/svg">
   <ellipse cx="240" cy="50" rx="220" ry="30" fill="yellow" />
   <ellipse cx="220" cy="50" rx="190" ry="20" fill="white" />
